@@ -1,0 +1,5 @@
+resource_group_name = "rg-tp3-terraform"
+admin_username      = "azureuser"
+public_key_path     = "~/.ssh/cloud_tp1.pub"
+location            = "denmarkeast"
+subscription_id     = "*********************************"
